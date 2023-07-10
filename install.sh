@@ -1,12 +1,11 @@
 #!/bin/bash
 
-echo "Acunetix v15.7 by Pwn3rzs / CyberArsenal"
+echo "Acunetix v15.7 "
 
 echo "
 You can find us here:
 https://t.me/Pwn3rzs
 or
-https://cyberarsenal.org
 Enjoy!"
 
 echo "
